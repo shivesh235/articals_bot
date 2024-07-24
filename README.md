@@ -25,12 +25,12 @@ This project implements a news research tool using Streamlit for a user-friendly
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/shivesh235/articals_bot.git
+git clone https://github.com/shivesh235/articals_bot.git
 ```
 2.Navigate to the project directory:
 
 ```bash
-  cd articals_bot
+cd articals_bot
 ```
 3. Install the required libraries (`pip install streamlit langchain faiss transformers sentence-transformers`).
 
