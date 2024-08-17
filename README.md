@@ -1,6 +1,10 @@
 ## News Research Tool
 
-This project implements a news research tool using Streamlit for a user-friendly interface and various NLP libraries for processing and summarizing news articles. 
+* **Developed a news research tool that allows users to input URLs and retrieve answers to questions based on those articles.**
+* **Implemented semantic search and word embedding to efficiently find relevant information from multiple news sources.**
+* **Leveraged Langchain libraries for data loading, text splitting, and vector creation, streamlining the development process.**
+* **Created a user interface (UI) for researchers to easily interact with the tool and access summarized answers.**
+* **Project has real-world applications, benefiting users by saving time and providing efficient access to information.**
 
 ![](bot1.png)
 
